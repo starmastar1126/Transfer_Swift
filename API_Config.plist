@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>Ja5JFT5DXUWOBYGTyKmM5kJSPPz526YRn6keqx6tOg8yVnj3jkepfA7VMij5sVv2PhotdgsvnAsr3gcRKwkLxFah3T9OZd1n5AceoRpxzoeMT7RZ3rYj4mOOu6Je2UjzDhq0URaZjvi09I0DWc618JQl9o9ImGGMkunsnemRaX9aEWmZCRZtsDasok3WBHVzAqVTiAlzhoTvoNYOdLoE0f2dgMajn1G5RT24N5s3b9Ol7NVVmBNLzV4Wm2lU2t04</string>
+	<key>BASE_URL</key>
+	<string>https://test.transfer.plus</string>
+	<key>login</key>
+	<string>/appLogin</string>
+	<key>customer</key>
+	<string>/appCustomer</string>
+	<key>offers</key>
+	<string>/appOffers</string>
+	<key>trips</key>
+	<string>/appRideFinished</string>
+	<key>bid</key>
+	<string>/appBid</string>
+	<key>scheduled</key>
+	<string>/appRideScheduled</string>
+	<key>offerDetail</key>
+	<string>/appOfferDetails</string>
+	<key>rideDetail</key>
+	<string>/appRideDetail</string>
+	<key>rideStatus</key>
+	<string>/appRideUpdate</string>
+</dict>
+</plist>

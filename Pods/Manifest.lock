@@ -1,0 +1,44 @@
+PODS:
+  - CocoaLumberjack (3.4.1):
+    - CocoaLumberjack/Default (= 3.4.1)
+    - CocoaLumberjack/Extensions (= 3.4.1)
+  - CocoaLumberjack/Default (3.4.1)
+  - CocoaLumberjack/Extensions (3.4.1):
+    - CocoaLumberjack/Default
+  - IQKeyboardManagerSwift (6.0.0)
+  - OneSignal (2.8.2)
+  - SVGKit (2.0.1):
+    - CocoaLumberjack (~> 3.x)
+  - UICircularProgressRing (1.8.4)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (from `https://github.com/hackiftekhar/IQKeyboardManager`)
+  - OneSignal (< 3.0, >= 2.6.2)
+  - SVGKit (from `https://github.com/SVGKit/SVGKit.git`, branch `2.x`)
+  - UICircularProgressRing
+
+EXTERNAL SOURCES:
+  IQKeyboardManagerSwift:
+    :git: https://github.com/hackiftekhar/IQKeyboardManager
+  SVGKit:
+    :branch: 2.x
+    :git: https://github.com/SVGKit/SVGKit.git
+
+CHECKOUT OPTIONS:
+  IQKeyboardManagerSwift:
+    :commit: 2d21eef0f74a7038a23897107f9e48b5fa2bfcaf
+    :git: https://github.com/hackiftekhar/IQKeyboardManager
+  SVGKit:
+    :commit: 0799e49c6ccd387888c5a6592b93f8b42e41bfeb
+    :git: https://github.com/SVGKit/SVGKit.git
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 2e258a064cacc8eb9a2aca318e24d02a0a7fd56d
+  IQKeyboardManagerSwift: 624f128983eec795deacd50c1cd2f72664d13f08
+  OneSignal: ab5c509192ca8390bdd3570a6261e6decf4c79c1
+  SVGKit: 4055d9e809b5db8633755979cfb3b02dc5a8c20d
+  UICircularProgressRing: 653b31f7252b2959e8234f5b9ea5f925da755954
+
+PODFILE CHECKSUM: fb42801ad50f66b8b67c0d5665019770f2107013
+
+COCOAPODS: 1.4.0
